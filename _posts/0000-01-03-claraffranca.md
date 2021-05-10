@@ -1,4 +1,4 @@
 ---
 layout: slide
-title "o que estou fazendo!"
+title: "o que estou fazendo!"
 ---
